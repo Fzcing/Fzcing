@@ -32,7 +32,7 @@
 
 ## : 💭 Información extra 
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/995503552627744789"/>
+    <img src="[https://lanyard.cnrad.dev/api/995503552627744789](https://lanyard.cnrad.dev/api/?ignoreAppId=995503552627744789)"/>
 </p>
 
 <hr/>
