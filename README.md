@@ -32,7 +32,7 @@
 
 ## : 💭 Información extra 
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/995503552627744789](https://lanyard.cnrad.dev/api/995503552627744789?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/995503552627744789)"/>
+    <img src="https://lanyard.cnrad.dev/api/995503552627744789"/>
 </p>
 
 <hr/>
