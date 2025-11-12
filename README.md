@@ -32,7 +32,7 @@
 
 ## : 💭 Información extra 
 <p align="center">
-    <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/?ignoreAppId=995503552627744789)](https://discord.com/users/)"/>
+    <img src="[[![Discord Presence](https://lanyard.cnrad.dev/api/?ignoreAppId=995503552627744789)](https://discord.com/users/)](https://lanyard.cnrad.dev/api/?ignoreAppId=995503552627744789)"/>
 </p>
 
 <hr/>
